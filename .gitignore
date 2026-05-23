@@ -28,8 +28,3 @@ yarn-error.log*
 .vscode/
 .idea/
 *.code-workspace
-
-# Data
-database/
-*.xlsx
-!會員資料template.xlsx
